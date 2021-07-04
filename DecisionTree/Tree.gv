@@ -1,0 +1,15 @@
+// Decision Tree
+digraph {
+	0 [label=Dataset]
+	1 [label=data]
+	0 -> 1 [label=yesh]
+	1 [label=yes]
+	2 [label=data]
+	0 -> 2 [label=noh]
+	3 [label=data]
+	2 -> 3 [label=noj]
+	3 [label=no]
+	4 [label=data]
+	2 -> 4 [label=yesj]
+	4 [label=yes]
+}

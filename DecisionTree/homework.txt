@@ -1,0 +1,15 @@
+young noj noh normal no
+young noj noh good no
+young yesj noh good yes
+young noj noh normal no
+young yesj yesh normal yes
+med noj noh normal no
+med noj noh good no
+med yesj yesh good yes
+med noj yesh fantastic yes
+med noj yesh fantastic yes
+old yesj noh good yes
+old yesj noh fantastic yes
+old noj noh normal no
+old noj yesh fantastic yes
+old noj yesh good yes
